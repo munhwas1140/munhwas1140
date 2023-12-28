@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏆 Cards
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=munhwas1140)](https://solved.ac/munhwas1140)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=munhwas1140)](https://github.com/munhwas1140)
