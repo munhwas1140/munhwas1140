@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 🙋‍♂️
 
 - Kookmin University, School of Software Engineering
 - [<img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UC3TPtXrp-zPRNA_dyUkHnMA)
