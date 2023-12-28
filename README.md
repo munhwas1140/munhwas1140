@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - Kookmin University, School of Software Engineering
 
