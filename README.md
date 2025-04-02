@@ -1,7 +1,7 @@
 ## About Me 🙋‍♂️
 
 - Kookmin University, School of Software Engineering
-- I love Computer Science, System Design and Golang
+
 <!--
 **munhwas1140/munhwas1140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
