@@ -1,6 +1,6 @@
 ## About Me 🙋‍♂️
 
-- Kookmin University, School of Software Engineering
+- Kookmin University | Bachelor's Degree in Software Engineering — 2025 
 
 <!--
 **munhwas1140/munhwas1140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Language
   - javascript, typescript, Go, java, c++
 - Framework
-  - React, Next.js, Spring Boot
+  - React, Next.js, NestJS, Spring Boot
 
 ##  Cards 🍀
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=munhwas1140)](https://solved.ac/munhwas1140)
